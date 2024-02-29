@@ -1,4 +1,5 @@
-"name": "Uniswap Labs Default",
+{
+  "name": "Uniswap Labs Default",
   "timestamp": "2024-02-26T23:41:27.220Z",
   "version": {
     "major": 11,
@@ -11,3 +12,187 @@
     "uniswap",
     "default"
   ],
+  "tokens": [
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "10": {
+            "tokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+          },
+          "56": {
+            "tokenAddress": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3"
+          },
+          "137": {
+            "tokenAddress": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
+          },
+          "8453": {
+            "tokenAddress": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb"
+          },
+          "42161": {
+            "tokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+          },
+          "43114": {
+            "tokenAddress": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70"
+          }
+        }
+      }
+    },
+    {
+      "name": "USDCoin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "10": {
+            "tokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+          },
+          "56": {
+            "tokenAddress": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
+          },
+          "137": {
+            "tokenAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+          },
+          "8453": {
+            "tokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+          },
+          "42161": {
+            "tokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+          },
+          "42220": {
+            "tokenAddress": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C"
+          },
+          "43114": {
+            "tokenAddress": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E"
+          }
+        }
+      }
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "10": {
+            "tokenAddress": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58"
+          },
+          "56": {
+            "tokenAddress": "0x55d398326f99059fF775485246999027B3197955"
+          },
+          "137": {
+            "tokenAddress": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+          },
+          "42161": {
+            "tokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+          },
+          "43114": {
+            "tokenAddress": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7"
+          }
+        }
+      }
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 31337,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "10": {
+            "tokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+          },
+          "56": {
+            "tokenAddress": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3"
+          },
+          "137": {
+            "tokenAddress": "0x8f3Cf7ad23Cd3CaDbD9735AFf958023239c6A063"
+          },
+          "8453": {
+            "tokenAddress": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb"
+          },
+          "42161": {
+            "tokenAddress": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+          },
+          "43114": {
+            "tokenAddress": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70"
+          }
+        }
+      }
+    },
+    {
+      "name": "USDCoin",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 31337,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "10": {
+            "tokenAddress": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85"
+          },
+          "56": {
+            "tokenAddress": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d"
+          },
+          "137": {
+            "tokenAddress": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+          },
+          "8453": {
+            "tokenAddress": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+          },
+          "42161": {
+            "tokenAddress": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+          },
+          "42220": {
+            "tokenAddress": "0xcebA9300f2b948710d2653dD7B07f33A8B32118C"
+          },
+          "43114": {
+            "tokenAddress": "0xB97EF9Ef8734C71904D8002F8b6Bc66Dd9c48a6E"
+          }
+        }
+      }
+    },
+    {
+      "name": "Tether USD",
+      "address": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "symbol": "USDT",
+      "decimals": 6,
+      "chainId": 31337,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png",
+      "extensions": {
+        "bridgeInfo": {
+          "10": {
+            "tokenAddress": "0x94b008aA00579c1307B0EF2c499aD98a8ce58e58"
+          },
+          "56": {
+            "tokenAddress": "0x55d398326f99059fF775485246999027B3197955"
+          },
+          "137": {
+            "tokenAddress": "0xc2132D05D31c914a87C6611C10748AEb04B58e8F"
+          },
+          "42161": {
+            "tokenAddress": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+          },
+          "43114": {
+            "tokenAddress": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7"
+          }
+        }
+      }
+    }
+  ]
+}
+
